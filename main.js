@@ -17,6 +17,6 @@ var Car = /** @class */ (function () {
 // let aaa: number | string;
 // aaa = 22;
 // aaa = "sss";
-// // aaa = false; ERROR
+// aaa = false; ERROR
 // console.log(aaa, a, z, x);
-// //abstract and interace not founded in js
+//abstract and interace not founded in js
