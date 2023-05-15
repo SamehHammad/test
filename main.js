@@ -1,13 +1,11 @@
 var Car = /** @class */ (function () {
-    function Car() {
-    }
-    return Car;
-}());
-(function () {
-});
+  function Car() {}
+  return Car;
+})();
+(function () {});
 // let x: number = 20;
 // x = 3;
-// // x = 'sddd'; ERROR
+// x = 'sddd'; ERROR
 // let z: number = 20;
 // z = 3;
 // // z = 'sddd'; ERROR
