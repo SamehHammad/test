@@ -20,3 +20,4 @@ var Car = /** @class */ (function () {
 // aaa = false; ERROR
 // console.log(aaa, a, z, x);
 //abstract and interace not founded in js
+//ll
